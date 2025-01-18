@@ -3,7 +3,6 @@
 
 `Editor Samrit Uddam`
 
-bash ```
-Hello
-```
+bash 
+```composer require samrituddam/html```
 
